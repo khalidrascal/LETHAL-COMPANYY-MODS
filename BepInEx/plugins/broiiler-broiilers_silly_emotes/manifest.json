@@ -1,0 +1,9 @@
+{
+    "name": "broiilers_silly_emotes",
+    "version_number": "1.1.4",
+    "website_url": "https://discord.com/channels/1168655651455639582/1196071201492189224/1196071201492189224",
+    "description": "Custom emotes i made for more fun! hope you like them, currently 35 emotes total",
+    "dependencies": [
+      "Gemumoddo-LethalEmotesAPI-1.2.12"
+    ]
+}

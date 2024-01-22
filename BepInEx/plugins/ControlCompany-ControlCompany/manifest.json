@@ -1,0 +1,7 @@
+{
+  "name": "ControlCompany",
+  "version_number": "1.1.0",
+  "website_url": "https://github.com/ControlCompany/ControlCompany",
+  "description": "Play as the monsters found in Lethal Company and scare your friends!",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}

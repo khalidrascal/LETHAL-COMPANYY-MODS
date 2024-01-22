@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 1096298267
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f03f19cae1533897b80e5a410cea6568
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4dc4955ab7d595182db4efe23b8441a9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f03f19cae1533897b80e5a410cea6568
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.AudioClipInfoPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.ScrapSpawnChancePerScene
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SerializableVersion
+Assets:
+- Assets/Mods/Clutter/sounds/minecraftdrop.mp3
+- Assets/Mods/Clutter/modmanifest.asset
+- Assets/Mods/Clutter/items/scraps/pickaxe/diamond-pickaxe.obj
+- Assets/Mods/Clutter/items/scraps/toycar/toycar.prefab
+- Assets/Mods/Clutter/sounds/minecraftswing.mp3
+- Assets/Mods/Clutter/items/scraps/coffeemug/coffeemug.prefab
+- Assets/Mods/Clutter/clutterassetbank.asset
+- Assets/Mods/Clutter/items/scraps/coffeemug/coffeemug.asset
+- Assets/Mods/Clutter/items/scraps/toycar/toycar.asset
+- Assets/Mods/Clutter/sounds/pickaxemiss.mp3
+- Assets/Mods/Clutter/items/scraps/pickaxe/diffuse.png
+- Assets/Mods/Clutter/sounds/amongusdrop.mp3
+- Assets/Mods/Clutter/items/scraps/coffeemug/custom-def.png
+- Assets/Mods/Clutter/items/scraps/pickaxe/materials/diamond_pickaxe.mat
+- Assets/Mods/Clutter/sounds/minecrafthit.mp3
+- Assets/Mods/Clutter/sounds/amongus.mp3
+- Assets/Mods/Clutter/items/scraps/coffeemug/materials/custom-def.mat
+- Assets/Mods/Clutter/sounds/minecrafthit2.mp3
+- Assets/Mods/Clutter/sounds/amongusfar.mp3
+- Assets/Mods/Clutter/items/scraps/amongus/amongus.prefab
+- Assets/Mods/Clutter/sounds/amongusgrab.mp3
+- Assets/Mods/Clutter/items/scraps/amongus/amongus.asset
+- Assets/Mods/Clutter/items/scraps/pickaxe/pickaxe.asset
+- Assets/Mods/Clutter/items/scraps/pickaxe/diamond-pickaxe.prefab
+- Assets/Mods/Clutter/items/scraps/amongus/amongus.fbx
+- Assets/Mods/Clutter/items/scraps/toycar/toycar.obj
+- Assets/Mods/Clutter/items/scraps/coffeemug/coffeemug.fbx
+- Assets/Mods/Clutter/items/scraps/pickaxe/materials/diffuse.mat
+- Assets/Mods/Clutter/items/scraps/toycar/materials/toycar.mat
+- Assets/Mods/Clutter/items/scraps/toycar/toycar.jpg
+Dependencies: []

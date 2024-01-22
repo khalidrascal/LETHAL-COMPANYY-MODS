@@ -1,0 +1,571 @@
+- manifestVersion: 1
+  name: BepInEx-BepInExPack
+  authorName: BepInEx
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/
+  displayName: BepInExPack
+  description: BepInEx pack for Mono Unity games. Preconfigured and ready to use.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 2100
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/BepInEx-BepInExPack/5.4.2100/icon.png
+- manifestVersion: 1
+  name: 2018-LC_API
+  authorName: "2018"
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/2018/LC_API/
+  displayName: LC_API
+  description: Multipurpose modding API for Lethal Company
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 4
+    patch: 5
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/2018-LC_API/3.4.5/icon.png
+- manifestVersion: 1
+  name: bizzlemip-BiggerLobby
+  authorName: bizzlemip
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/bizzlemip/BiggerLobby/
+  displayName: BiggerLobby
+  description: The original lobby expansion mod! Now with up to 40 players!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - 2018-LC_API-1.2.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 6
+    patch: 0
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/bizzlemip-BiggerLobby/2.6.0/icon.png
+- manifestVersion: 1
+  name: x753-More_Suits
+  authorName: x753
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/x753/More_Suits/
+  displayName: More_Suits
+  description: Adds more suits to choose from, and can be used as a library to
+    load your own suits!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 1
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/x753-More_Suits/1.4.1/icon.png
+- manifestVersion: 1
+  name: Omegaz-Lethal_Lunacy_suits
+  authorName: Omegaz
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Omegaz/Lethal_Lunacy_suits/
+  displayName: Lethal_Lunacy_suits
+  description: Adds 11 new suits!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - x753-More_Suits-1.3.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/Omegaz-Lethal_Lunacy_suits/2.0.0/icon.png
+- manifestVersion: 1
+  name: AinaVT-LethalConfig
+  authorName: AinaVT
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/
+  displayName: LethalConfig
+  description: Provides an in-game config menu for players to edit their configs,
+    and an API for other mods to use and customize their entries.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 4
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/AinaVT-LethalConfig/1.3.4/icon.png
+- manifestVersion: 1
+  name: Rune580-LethalCompany_InputUtils
+  authorName: Rune580
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/
+  displayName: LethalCompany_InputUtils
+  description: Utilities for creating InputActions and providing an (opinionated)
+    improved UI.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 5
+    patch: 5
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/Rune580-LethalCompany_InputUtils/0.5.5/icon.png
+- manifestVersion: 1
+  name: Gemumoddo-LethalEmotesAPI
+  authorName: Gemumoddo
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Gemumoddo/LethalEmotesAPI/
+  displayName: LethalEmotesAPI
+  description: API for adding emotes to Lethal Company
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Rune580-LethalCompany_InputUtils-0.4.4
+    - AinaVT-LethalConfig-1.2.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 14
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/Gemumoddo-LethalEmotesAPI/1.2.14/icon.png
+- manifestVersion: 1
+  name: broiiler-broiilers_silly_emotes
+  authorName: broiiler
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/broiiler/broiilers_silly_emotes/
+  displayName: broiilers_silly_emotes
+  description: Custom emotes i made for more fun! hope you like them, currently 35
+    emotes total
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - Gemumoddo-LethalEmotesAPI-1.2.12
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 4
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/broiiler-broiilers_silly_emotes/1.1.4/icon.png
+- manifestVersion: 1
+  name: dipshits_galore-GokuBracken
+  authorName: dipshits_galore
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/dipshits_galore/GokuBracken/
+  displayName: GokuBracken
+  description: Replaces the bracken's model with a model of Goku from the
+    Tenkaichi games. Looking for someone with 3D modeling experience to make
+    skin variants.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 3
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/dipshits_galore-GokuBracken/1.4.3/icon.png
+- manifestVersion: 1
+  name: jockie-LethalExpansionCore
+  authorName: jockie
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/jockie/LethalExpansionCore/
+  displayName: LethalExpansionCore
+  description: De-bloated LethalExpansion fork with only the LethalSDK module support
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 14
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/jockie-LethalExpansionCore/1.3.14/icon.png
+- manifestVersion: 1
+  name: Jarno-Clutter
+  authorName: Jarno
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Jarno/Clutter/
+  displayName: Clutter
+  description: Adds several new types of scrap.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - jockie-LethalExpansionCore-1.3.14
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/Jarno-Clutter/0.2.0/icon.png
+- manifestVersion: 1
+  name: Evaisa-HookGenPatcher
+  authorName: Evaisa
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/
+  displayName: HookGenPatcher
+  description: Generates MonoMod.RuntimeDetour.HookGen's MMHOOK file during the
+    BepInEx preloader phase.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/Evaisa-HookGenPatcher/0.0.5/icon.png
+- manifestVersion: 1
+  name: willis81808-LethalSettings
+  authorName: willis81808
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/willis81808/LethalSettings/
+  displayName: LethalSettings
+  description: A centralized place for configuring mods from in-game
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 0
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/willis81808-LethalSettings/1.3.0/icon.png
+- manifestVersion: 1
+  name: Evaisa-LethalLib
+  authorName: Evaisa
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
+  displayName: LethalLib
+  description: Personal modding tools for Lethal Company
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 13
+    patch: 2
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/Evaisa-LethalLib/0.13.2/icon.png
+- manifestVersion: 1
+  name: quackandcheese-MirrorDecor
+  authorName: quackandcheese
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor/
+  displayName: MirrorDecor
+  description: Adds a working mirror decoration that you can buy for your ship!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - Evaisa-LethalLib-0.4.5
+    - willis81808-LethalSettings-1.3.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 0
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/quackandcheese-MirrorDecor/1.3.0/icon.png
+- manifestVersion: 1
+  name: ControlCompany-ControlCompany
+  authorName: ControlCompany
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ControlCompany/ControlCompany/
+  displayName: ControlCompany
+  description: Play as the monsters found in Lethal Company and scare your friends!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/ControlCompany-ControlCompany/1.1.0/icon.png
+- manifestVersion: 1
+  name: anormaltwig-TerminalExtras
+  authorName: anormaltwig
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/anormaltwig/TerminalExtras/
+  displayName: TerminalExtras
+  description: Extra commands for the terminal.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/anormaltwig-TerminalExtras/1.0.1/icon.png
+- manifestVersion: 1
+  name: BudgetAirpods-InsanityRemastered
+  authorName: BudgetAirpods
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/
+  displayName: InsanityRemastered
+  description: Adds new features and mechanics to the insanity mechanic of Lethal Company.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 8
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/BudgetAirpods-InsanityRemastered/1.0.8/icon.png
+- manifestVersion: 1
+  name: Jordo-NeedyCats
+  authorName: Jordo
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/
+  displayName: NeedyCats
+  description: You like cats? The company likes cats too! Find them roaming the
+    various abandoned facilities and bring them home!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/Jordo-NeedyCats/1.1.1/icon.png
+- manifestVersion: 1
+  name: PotatoePet-AdvancedCompany
+  authorName: PotatoePet
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/PotatoePet/AdvancedCompany/
+  displayName: AdvancedCompany
+  description: The most advanced and by far most stable lobby mod with perfect
+    additions for your LethalCompany adventure. Including nearly perfectly
+    synched late joining into lobbies. Includes cosmetics compability. Fully
+    configurable in-game with preset support.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Rune580-LethalCompany_InputUtils-0.5.5
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 118
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/PotatoePet-AdvancedCompany/1.0.118/icon.png
+- manifestVersion: 1
+  name: MegaPiggy-InsanityMeter
+  authorName: MegaPiggy
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/MegaPiggy/InsanityMeter/
+  displayName: InsanityMeter
+  description: Adds a violet colored insanity bar right above the clock.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/MegaPiggy-InsanityMeter/1.0.0/icon.png
+- manifestVersion: 1
+  name: HolographicWings-LethalExpansion
+  authorName: HolographicWings
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/
+  displayName: LethalExpansion
+  description: Large game expansion with SDK support and a plenty of features.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 21
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/HolographicWings-LethalExpansion/1.3.21/icon.png
+- manifestVersion: 1
+  name: TeamBridget-Peaches_Castle
+  authorName: TeamBridget
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TeamBridget/Peaches_Castle/
+  displayName: Peaches_Castle
+  description: Adds the castle grounds of Peach's Castle as a playable moon.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - HolographicWings-LethalExpansion-1.3.16
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 41
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/TeamBridget-Peaches_Castle/1.0.41/icon.png
+- manifestVersion: 1
+  name: quackandcheese-MinecraftTaigaMoon
+  authorName: quackandcheese
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/quackandcheese/MinecraftTaigaMoon/
+  displayName: MinecraftTaigaMoon
+  description: Adds the Minecraft Taiga biome as a moon using LethalExpansion
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - HolographicWings-LethalExpansion-1.3.6
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:/Users/khalidrascal/AppData/Roaming/Thunderstore Mod
+    Manager/DataFolder/LethalCompany/cache/quackandcheese-MinecraftTaigaMoon/1.1.1/icon.png
